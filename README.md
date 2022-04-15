@@ -1,16 +1,58 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" align="right" width="400" height="250">
 
-<!--
-**dilberkilic/dilberkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there :wave: , I'm Dilber. :blush:
 
-Here are some ideas to get you started:
+ - Gazi University | Computer Engineering :computer:
+ - :seedling: I'm currently learning Flutter, Dart and Android. 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<font color="purple">Coffee :coffee: is how I keep up with `< code />` </font>
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+### Reach out to me :mailbox_with_mail:
+
+[<img  width="22" src="https://simpleicons.org/icons/youtube.svg" align="center" />][youtube]
+[<img  width="22" src="https://simpleicons.org/icons/medium.svg" align="center" />][medium]
+[<img  width="22" src="https://simpleicons.org/icons/linkedin.svg" align="center" />][linkedin]
+
+<br />
+<br />
+
+### Tech I use
+
+<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="40" height="40" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40" />
+<br />
+<br/>
+<br/>
+<br/>
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [VERİ BİLİMİ SERÜVENİM -1](https://medium.com/@dilberkilic/veri%CC%87-bi%CC%87li%CC%87mi%CC%87-ser%C3%BCveni%CC%87m-1-7e18eeb7bc70)
+- [ANDROID İŞLETİM SİSTEMİ MİMARİSİ](https://medium.com/@dilberkilic/android-i%CC%87%C5%9Fleti%CC%87m-si%CC%87stemi%CC%87-mi%CC%87mari%CC%87si%CC%87-9fa7127a5b19)
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dilberkilic&theme=radical" >
+
+<br/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilberkilic&layout=compact" >
+
+
+[youtube]:https://www.youtube.com/channel/UCSwdVXFvs-7QYySjEISeiQw  
+[medium]: https://medium.com/@dilberkilic
+[linkedin]: https://www.linkedin.com/in/dilberkilic/
