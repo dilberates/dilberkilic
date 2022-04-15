@@ -6,14 +6,6 @@
  - :seedling: I'm currently learning Flutter, Dart and Android. 
  
 
-
-
-<font color="red">Coffee :coffee: is how I keep up with `< code />` </font>
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
-
 ### Reach out to me :mailbox_with_mail:
 
 [<img  width="22" src="https://simpleicons.org/icons/youtube.svg" align="center" />][youtube]
