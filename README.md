@@ -37,7 +37,7 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=dilberkilic&theme=radical" >
+<img src="https://github-readme-stats.vercel.app/api?username=dilberkilic&theme=rosepine" >
 
 <br/>
 
