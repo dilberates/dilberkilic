@@ -8,7 +8,7 @@
 
 
 
-<font color="purple">Coffee :coffee: is how I keep up with `< code />` </font>
+<font color="red">Coffee :coffee: is how I keep up with `< code />` </font>
 <!--START_SECTION:waka-->
 
 
