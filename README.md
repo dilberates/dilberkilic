@@ -10,7 +10,7 @@
 
 [<img  width="22" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" align="center" />][youtube]
 [<img  width="22" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" align="center" />][medium]
-[<img  width="22" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650233999~hmac=ee05d4dee6a0ca8c44046c157ee7a111" align="center" />][linkedin]
+[<img  width="22" src="https://img.icons8.com/fluency/344/linkedin.png" align="center" />][linkedin]
 
 <br />
 <br />
