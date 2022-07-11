@@ -1,4 +1,4 @@
-<img src="http://fifa-rager.tumblr.com/post/50709230350" align="right" width="400" height="250">
+<img src="https://media4.giphy.com/media/1jcX4xi9NeIl1RKnf2/giphy.gif" align="right" width="300" height="250">
 
 ### Hi there :wave: , I'm Dilber. :blush:
 
