@@ -42,8 +42,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilberkilic)](https://github.com/dilberkilic)
-
 
 [youtube]:https://www.youtube.com/channel/UCSwdVXFvs-7QYySjEISeiQw  
 [medium]: https://medium.com/@dilberkilic
