@@ -33,6 +33,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [VERİ BİLİMİ SERÜVENİM -1](https://medium.com/@dilberkilic/veri%CC%87-bi%CC%87li%CC%87mi%CC%87-ser%C3%BCveni%CC%87m-1-7e18eeb7bc70)
 - [ANDROID İŞLETİM SİSTEMİ MİMARİSİ](https://medium.com/@dilberkilic/android-i%CC%87%C5%9Fleti%CC%87m-si%CC%87stemi%CC%87-mi%CC%87mari%CC%87si%CC%87-9fa7127a5b19)
+- [FLUTTER MOBX İLE RESTFUL API İŞLEMİ](https://medium.com/@dilberkilic/flutter-mobx-i%CC%87le-restful-api-i%CC%87%C5%9Flemi%CC%87-d39a4156f6e7)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
