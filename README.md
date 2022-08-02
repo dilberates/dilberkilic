@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%7540D7F&size=27&duration=6000&vCenter=true&lines=Mobile+Application+Developer...;](https://git.io/typing-svg)
-<br/>
+
 <img src="https://media4.giphy.com/media/1jcX4xi9NeIl1RKnf2/giphy.gif" align="right" width="300" height="250">
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%7540D7F&size=27&duration=6000&vCenter=true&lines=Mobile+Application+Developer...;](https://git.io/typing-svg)
 
 ### Hi there :wave: , I'm Dilber. :blush:
 
