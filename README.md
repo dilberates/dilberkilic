@@ -5,6 +5,9 @@
  - Gazi University | Computer Engineering :computer:
  - :seedling: I'm currently learning Flutter, Dart and Android. 
  
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Flutter+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdilberkilic&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Reach out to me :mailbox_with_mail:
 
