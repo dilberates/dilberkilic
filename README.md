@@ -4,7 +4,7 @@
 ### Hi there :wave: , I'm Dilber. :blush:
 
  - Gazi University | Computer Engineering :computer:
- - :seedling: I'm currently learning Flutter, Swift and Kotlin. 
+ - :seedling: I'm currently learning Flutter and Swift. 
  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdilberkilic&count_bg=%2300F7EF&title_bg=%23555555&icon=flutter.svg&icon_color=%2300F7EF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
